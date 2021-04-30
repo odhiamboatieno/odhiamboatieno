@@ -51,19 +51,6 @@ I write about things I am familiar with, things that trip up folks that I mentor
 
 💌 Sign up for my [newsletter](https://odhiambo.seentechs.com/newsletter/)
 
----
-
-## <img height="30" style="border-radius:50%" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/twitter.png?raw=true"> Latest Followers _${me_followers_count}_
-
-${latest_followers}
-
-
-## Latest Story
-<p align='center'>
-<p float="left">
-        <img src='https://odhiambo.seentechs.com/latest-story.png' alt='story one' width='280'/>
-</p>
-</p>
 
 ## They Said I deserve a star
 
