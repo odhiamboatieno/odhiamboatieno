@@ -1,7 +1,7 @@
 # [![odhiambo atieno header](https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/odhiambo-banner1.png)](https://odhiambo.seentechs.com)
 
 <p>
-  <a href="https://odhiambo.seentechs.com/latest"><img width="150" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/emoji-finger.png?raw=true"></a>
+  <a href="https://odhiambo.seentechs.com/latest"><img width="120" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/giphy.gif?raw=true"></a>
 </p>
 
 
@@ -15,7 +15,7 @@
 
 Hey there 👋,
 
-I am Odhiambo Atieno, a Software Developer from Kenya.  I am an open source enthusiast,  my great passion is learning and sharing my technical know-how with as may people as possible. I am a the founder ans CEO of [Seen Technologies](https://seentechs.com).  If you would like to eplore my services or share with me any information could have please  [email me](mailto:odhiambo@seentechs.com), or  [call me](tel:+254797049288), give some ♥ on [DEV.to/odhiamboatieno](https://dev.to/odhiamboatieno), or follow my facebook page  at odhiambo.seentechs.com/seentechnologies  I would love to see you there.
+I am Odhiambo Atieno, a Software Developer from Kenya.  I am an open source enthusiast,  my great passion is learning and sharing my technical know-how with as many people as possible. I am a the founder ans CEO of [Seen Technologies](https://seentechs.com).  If you would like to eplore my services or share with me any information could have please  [email me](mailto:odhiambo@seentechs.com), or  [call me](tel:+254797049288), give some ♥ on [DEV.to/odhiamboatieno](https://dev.to/odhiamboatieno), or [follow my facebook page(https://facebook.com/seentechnologies). I would love to see you there.
  
   ---
  
