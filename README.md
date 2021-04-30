@@ -15,7 +15,7 @@
 
 Hey there 👋,
 
-I am Odhiambo Atieno, a Software Developer from Kenya.  I am an open source enthusiast,  my great passion is learning and sharing my technical know-how with as may people as possible. I am a the founder ans CEO of [Seen Technologies](https://seentechs.com).  If you would like to eplore my services or share with me any information could have please  [email me](mailto:odhiambo@seentechs.com), or  [call me](+254797049288), give some ♥ on [DEV.to/odhiamboatieno](https://dev.to/odhiamboatieno), or follow my facebook page  at odhiambo.seentechs.com/seentechnologies  I would love to see you there.
+I am Odhiambo Atieno, a Software Developer from Kenya.  I am an open source enthusiast,  my great passion is learning and sharing my technical know-how with as may people as possible. I am a the founder ans CEO of [Seen Technologies](https://seentechs.com).  If you would like to eplore my services or share with me any information could have please  [email me](mailto:odhiambo@seentechs.com), or  [call me](tel:+254797049288), give some ♥ on [DEV.to/odhiamboatieno](https://dev.to/odhiamboatieno), or follow my facebook page  at odhiambo.seentechs.com/seentechnologies  I would love to see you there.
  
   ---
  
@@ -35,7 +35,7 @@ I am big fan of open source.  I may not be involved in very big projects current
 
 ### My Territories 🌱
 
-I am a writer of blogs, to read my blogs, you can visit[odhiambo.seentechs.com](https://odhiambo.seentechs.com) and [dev.to/odhiamboatieno](https://dev.to/odhiamboatieno).
+I am a writer of blogs, to read my blogs, you can visit [odhiambo.seentechs.com](https://odhiambo.seentechs.com) and [dev.to/odhiamboatieno](https://dev.to/odhiamboatieno).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **Android Development** **Web Develpment** using **Cloud Computing** and **SEO**. 
 
