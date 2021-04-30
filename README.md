@@ -20,7 +20,7 @@ I am Odhiambo Atieno, a Software Developer from Kenya.  I am an open source enth
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/what-ilove.gif?raw=true">
+  <img width="100" align='left' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/what-ilove.gif?raw=true">
 </p>
  
 ### What I Love most
