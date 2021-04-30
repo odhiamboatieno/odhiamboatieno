@@ -1,4 +1,4 @@
-# [![odhiambo atieno header](https://raw.githubusercontent.com/odhiamboatieno/odhiamboatieno/main/icon/odhiambo-atieno1.png)](https://odhiambo.seentechs.com)
+# [![odhiambo atieno header](https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/odhiambo-banner1.png)](https://odhiambo.seentechs.com)
 
 <p>
   <a href="https://odhiambo.seentechs.com/latest-story.png"><img width="150" align='right' src="https://odhiambo.seentechs.com/latest-story.png"></a>
