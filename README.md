@@ -40,13 +40,13 @@ I am a writer of blogs, to read my blogs, you can visit[odhiambo.seentechs.com](
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **Android Development** **Web Develpment** using **Cloud Computing** and **SEO**. 
 
 [Latest Post 👉](https://odhiambo.seentechs.com/)
-
+<!--
 <details>
  <summary><strong>other favorite posts</strong></summary>
  <a href="https://odhiambo.seentechs.com/blog/#/"><img width="400" src="https://odhiambo.seentechs.com/eight-years-cat.png?raw=true"></a>
  <a href="https://odhiambo.seentechs.com/blog/#/"><img width="400" src="https://odhiambo.seentechs.com/alt%20b.png?raw=true"></a>
  <a href="https://odhiambo.seentechs.com/blog/#/"><img width="400" src="https://odhiambo.seentechs.com/what-are-github-actions.png?raw=true"></a>
- 
+ /-->
 </details>
 
 💌 Sign up for my [newsletter](https://odhiambo.seentechs.com/newsletter/)
