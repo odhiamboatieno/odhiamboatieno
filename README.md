@@ -1,7 +1,7 @@
 # [![odhiambo atieno header](https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/odhiambo-banner1.png)](https://odhiambo.seentechs.com)
 
 <p>
-  <a href="https://odhiambo.seentechs.com/latest-story.png"><img width="150" align='right' src="https://odhiambo.seentechs.com/latest-story.png"></a>
+  <a href="https://odhiambo.seentechs.com/latest"><img width="150" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/emoji-finger.png?raw=true"></a>
 </p>
 
 
