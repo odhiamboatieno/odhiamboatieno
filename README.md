@@ -3,8 +3,8 @@
 <p>
   <a href="https://odhiambo.seentechs.com/latest"><img width="120" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/giphy.gif?raw=true"></a>
   <a href="https://github.com/odhiamboatieno">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=odhiamboatieno&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github.com/sababuvercetti">
+<img align="right" alt="sabesan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=odhiamboatieno&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+
 </p>
 
 
