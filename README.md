@@ -34,16 +34,16 @@ I am big fan of open source.  I may not be involved in very big projects current
  ---
 
 <p>
-  <a href="https://odhiambo.seentechs.com/latest"><img width="200" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/emoji-finger.png?raw=true"></a>
+  <a href="https://odhiamboatieno.com/latest"><img width="200" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/emoji-finger.png?raw=true"></a>
 </p>
 
 ### My Territories 🌱
 
-I am a writer of blogs, to read my blogs, you can visit [odhiambo.seentechs.com](https://odhiambo.seentechs.com) and [dev.to/odhiamboatieno](https://dev.to/odhiamboatieno).
+I am a writer of blogs, to read my blogs, you can visit [odhiamboatieno.com](https://odhiamboatieno.com) and [dev.to/odhiamboatieno](https://dev.to/odhiamboatieno).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **Android Development** **Web Develpment** using **Cloud Computing** and **SEO**. 
 
-[Latest Post 👉](https://odhiambo.seentechs.com/)
+[Latest Post 👉](https://odhiamboatieno.com/)
 <!--
 <details>
  <summary><strong>other favorite posts</strong></summary>
@@ -53,7 +53,7 @@ I write about things I am familiar with, things that trip up folks that I mentor
  /-->
 </details>
 
-💌 Sign up for my [newsletter](https://odhiambo.seentechs.com/newsletter/)
+💌 Sign up for my [newsletter](https://odhiamboatieno.com/newsletter/)
 
 
 ## They Said I deserve a star
