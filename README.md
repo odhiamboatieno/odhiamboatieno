@@ -29,7 +29,7 @@ I am Odhiambo Atieno, a Software Developer from Kenya.  I am an open source enth
  
 ### What I Love most
 
-I am big fan of open source.  I may not be involved in very big projects currently but  I am always ready to contribute in any open source projects. I love learning new skills and interacting with development teams from all backrounds.
+I am big fan of open source.  I may not be involved in very big projects currently but  I am always ready to contribute in any open source projects. I love learning new skills and interacting with software development teams from all backrounds.
 
  ---
 
