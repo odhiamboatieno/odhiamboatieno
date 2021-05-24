@@ -15,6 +15,7 @@
 <a href="https://twitter.com/odhiambokatieno"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/odhiamboatieno"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/odhiamboatieno/"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/linkedin.png?raw=true"></a>
+  <a href="https://odhiamboatieno.com/"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/odhiamboatieno-site.png?raw=true"></a>
 </p>
 
 Hey there 👋,
