@@ -1,7 +1,7 @@
 # [![odhiambo atieno header](https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/odhiambo-banner1.png)](https://odhiamboatieno.com)
 <a href="https://profile.codersrank.io/user/odhiamboatieno/"><img width="450px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=odhiamboatieno&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a>
-<a href="https://github.com/odhiamboatieno">
-<img width="360px" align="right" alt="dhiambo Atieno's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=odhiamboatieno&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<!--<a href="https://github.com/odhiamboatieno">
+<img width="360px" align="right" alt="dhiambo Atieno's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=odhiamboatieno&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> /-->
 
 <!--<p>
   <a href="https://odhiambo.seentechs.com/latest"><img width="120" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/giphy.gif?raw=true"></a>
