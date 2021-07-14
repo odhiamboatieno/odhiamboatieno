@@ -40,7 +40,7 @@ I am big fan of open source.  I may not be involved in very big projects current
 
 ### My Territories 🌱
 
-I am a writer of blogs, to read my blogs, you can visit [odhiamboatieno.com](https://odhiamboatieno.com) and [dev.to/odhiamboatieno](https://dev.to/odhiamboatieno).
+I  write blogs, to read my blogs, you can visit my pages at [odhiamboatieno.com](https://odhiamboatieno.com) and [dev.to/odhiamboatieno](https://dev.to/odhiamboatieno).
 
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **Android Development** **Web Develpment** using **Cloud Computing** and **SEO**. 
 
