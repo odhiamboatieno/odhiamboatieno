@@ -11,7 +11,7 @@
 
 <p align='center'>
 <a href="https://dev.to/odhiamboatieno"><img height="30" src="https://raw.githubusercontent.com/odhiamboatieno/odhiamboatieno/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://facebook.com/odhiamboatieno"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/facebook.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://facebook.com/odhiambokatieno"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/facebook.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/_odhiamboatieno"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram.com/odhiamboatieno"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/odhiamboatieno/"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
