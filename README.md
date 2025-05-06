@@ -1,7 +1,3 @@
-Incomplete and ugly!
-
-please rewrite this md code I gave you well
-
 <!--# [![odhiambo atieno header](https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/odhiambo-banner1.png)](https://odhiamboatieno.com)
 <a href="https://profile.codersrank.io/user/odhiamboatieno/"><img width="450px" src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=odhiamboatieno&layout=horizontal&badges=3&show-avatar=true&min-width=494px&branding=false&style=--bg-color:%23fff;--border:1px%20solid%23e4e2e2;--border-radius:4px;--header-padding:20px;--header-bg-color:%232f80ed;--name-font-size:18px;--name-font-weight:bold;--rank-font-size:14px;--preloader-color:%232f80ed;--badges-padding:20px;--badge-box-shadow:none;--badge-border:1px%20solid%23e4e2e2;--badge-rank-font-size:12px;--badge-location-font-size:12px;--badge-padding:10px;--badge-margin:10px;--badge-icon-size:16px;--badge-technology-font-size:14px;--badge-technology-font-weight:normal)" /></a> -->
 <!--<a href="https://github.com/odhiamboatieno">
@@ -22,7 +18,7 @@ please rewrite this md code I gave you well
   <a href="https://odhiamboatieno.com/"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/odhiamboatieno-site.png?raw=true"></a>
 </p>
 
-Hey there 👋,
+Hello there 👋,
 
 I am Odhiambo Atieno, a Professional Software Engineer from Kenya.  I am an open source enthusiast,  my great passion is learning and sharing my technical know-how with as many people as possible. I am a the founder and CEO of [Seen Technologies](https://seentechs.com).  If you would like to explore my services or share with me any information could have please  [email me](mailto:odhiambo@seentechs.com), or  [call me](tel:+254797049288), give some ♥ on [DEV.to/odhiamboatieno](https://dev.to/odhiamboatieno), or [follow my facebook page](https://facebook.com/seentechnologies). I would love to see you there.
  
