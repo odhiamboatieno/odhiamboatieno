@@ -37,6 +37,7 @@ I am big fan of open source.  I may not be involved in very big projects current
 <p>
   <a href="https://odhiamboatieno.com/latest"><img width="200" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/emoji-finger.png?raw=true"></a>
 </p>
+</br>
 
 ### My Territories 🌱
 
