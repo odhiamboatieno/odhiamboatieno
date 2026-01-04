@@ -1,48 +1,115 @@
+<!-- Hero Section -->
 
-<a href="https://www.linkedin.com/in/odhiamboatieno/"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<h1 align="center">Odhiambo Atieno</h1>
+<h3 align="center">Software Engineer • System Builder • Open‑Source Advocate</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/odhiamboatieno/"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://odhiamboatieno.com/"><img height="30" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/odhiamboatieno-site.png?raw=true"></a>
 </p>
 
-Hello there 👋,
+---
 
-I am Odhiambo Atieno, a Professional Software Engineer from Kenya.  I am an open source enthusiast,  my great passion is learning and sharing my technical know-how with as many people as possible. I am a the founder and CEO of [Seen Technologies](https://seentechs.com).  If you would like to explore my services or share with me any information could have please  [email me](mailto:odhiambo@seentechs.com), or  [call me](tel:+254797049288), give some ♥ on [DEV.to/odhiamboatieno](https://dev.to/odhiamboatieno), or [follow my facebook page](https://facebook.com/seentechnologies). I would love to see you there.
- 
-  ---
- 
- <p>
-  <img width="210" align='left' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/what-ilove.gif?raw=true">
+## 👋 About Me
+
+I’m **Odhiambo Atieno**, a professional **Software Engineer from Kenya** who builds **real‑world systems**, not demos.
+
+I specialize in designing, building, and self‑hosting **scalable, production‑ready software** — from backend architectures to mobile apps and full DevOps pipelines.
+
+I’m the **Founder & CEO of [Seen Technologies](https://seentechs.com)**, where we build, deploy, and maintain digital products for clients who care about **performance, ownership, and long‑term stability**.
+
+I’m deeply opinionated about:
+
+* ✅ Open‑source over lock‑in
+* ✅ Automation over manual work
+* ✅ Systems that scale cleanly
+* ✅ Brutal honesty over hype
+
+📩 **Business / Collaboration**: [odhiambo@seentechs.com](mailto:odhiambo@seentechs.com)
+📞 **Call**: +254 797 049 288
+
+---
+
+## 🧠 What I Actually Do
+
+<p align="right">
+  <img width="220" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/what-ilove.gif?raw=true">
 </p>
- 
-### What I Love most
 
-I am big fan of open source.  I may not be involved in very big projects currently but  I am always ready to contribute in any open source projects. I love learning new skills and interacting with software development teams from all backrounds.
+I build and ship **end‑to‑end systems**, including:
 
- ---
+* **Backend Systems** (Laravel, APIs, Auth, Payments, Licensing)
+* **Mobile Apps** (Flutter, Android, iOS)
+* **Self‑Hosted Infrastructure** (Docker, Ubuntu, VPS, Bare‑metal)
+* **Automation & Tooling** (CI/CD, background jobs, monitoring)
+* **Multi‑tenant & SaaS platforms**
+* **SEO‑driven, high‑performance web platforms**
 
-<p>
-  <a href="https://odhiamboatieno.com/latest"><img width="200" align='right' src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/emoji-finger.png?raw=true"></a>
+If it runs in production, breaks under load, or needs to scale — that’s my territory.
+
+---
+
+## 🌍 My Engineering Philosophy
+
+* Open‑source **first**, proprietary only when necessary
+* Own your **data, infrastructure, and roadmap**
+* Design for **failure**, not perfection
+* Ship fast, then harden
+* Build things that still make sense **5 years later**
+
+I actively contribute to and support open‑source projects, and I enjoy collaborating with engineers from different backgrounds and cultures.
+
+---
+
+## ✍️ Writing & Knowledge Sharing
+
+<p align="left">
+  <a href="https://odhiamboatieno.com/latest"><img width="200" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/emoji-finger.png?raw=true"></a>
 </p>
-</br>
 
-### My Territories 🌱
+I write about:
 
-I  write blogs, to read my blogs, you can visit my pages at [odhiamboatieno.com](https://odhiamboatieno.com) and [dev.to/odhiamboatieno](https://dev.to/odhiamboatieno).
+* Software engineering lessons from real projects
+* Laravel, Flutter, DevOps, and self‑hosting
+* Mistakes people don’t warn you about
+* System design decisions that actually matter
 
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **Android Development** **Web Develpment** using **Cloud Computing** and **SEO**. 
+📚 Read my work:
 
-[Latest Post 👉](https://odhiamboatieno.com/)
-<!--
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://odhiambo.seentechs.com/blog/#/"><img width="400" src="https://odhiambo.seentechs.com/eight-years-cat.png?raw=true"></a>
- <a href="https://odhiambo.seentechs.com/blog/#/"><img width="400" src="https://odhiambo.seentechs.com/alt%20b.png?raw=true"></a>
- <a href="https://odhiambo.seentechs.com/blog/#/"><img width="400" src="https://odhiambo.seentechs.com/what-are-github-actions.png?raw=true"></a>
- /-->
-</details>
+* 🌐 [https://odhiamboatieno.com](https://odhiamboatieno.com)
+* ✍️ [https://dev.to/odhiamboatieno](https://dev.to/odhiamboatieno)
 
-💌 Sign up for my [newsletter](https://odhiamboatieno.com/newsletter/)
+👉 **[Latest Post](https://odhiamboatieno.com/)**
 
+💌 Join my newsletter: [https://odhiamboatieno.com/newsletter/](https://odhiamboatieno.com/newsletter/)
 
-## They Said I deserve a star
+---
+
+## 🚀 Tech Stack Snapshot
+
+**Languages & Frameworks**
+Laravel • PHP • Flutter • Dart • JavaScript • Android • iOS
+
+**Infrastructure & DevOps**
+Docker • Ubuntu Server • VPS • Self‑Hosting • CI/CD
+
+**Databases**
+MySQL • PostgreSQL
+
+**Other**
+APIs • Payments • SaaS Architecture • SEO • Automation
+
+---
+
+## ⭐ Community Support
+
+> People don’t star repos by accident.
 
 [![Stargazers repo roster for @odhiamboatieno/odhiamboatieno](https://reporoster.com/stars/odhiamboatieno/odhiamboatieno)](https://github.com/odhiamboatieno/odhiamboatieno/stargazers)
+
+---
+
+<p align="center">
+  <strong>Building systems that last.</strong><br>
+  <em>Less hype. More engineering.</em>
+</p>
