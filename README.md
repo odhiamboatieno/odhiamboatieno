@@ -169,15 +169,6 @@ Databases      : MySQL • PostgreSQL
 
 ---
 
-<!-- ================= STARS ================= -->
-
-## ⭐ Community Support
-
-> People star work that helped them.
-
-[![Stargazers repo roster for @odhiamboatieno/odhiamboatieno](https://reporoster.com/stars/odhiamboatieno/odhiamboatieno)](https://github.com/odhiamboatieno/odhiamboatieno/stargazers)
-
----
 
 <div align="center">
 
