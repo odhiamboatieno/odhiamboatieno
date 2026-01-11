@@ -60,11 +60,11 @@ I’m the **Founder & CEO of [Seen Technologies](https://seentechs.com)**, helpi
 
 </div>
 
-              | Java • Kotlin • Swift | Flutter • Android • iOS | Laravel • APIs • Auth |
-              
-              | 🤖 AI & Automation      | ⚙️ Infrastructure                  | 🗄️ Data           |
-              | ----------------------- | ---------------------------------- | ------------------ |
-              | AI APIs • LLMs • Agents | Docker • Ubuntu • VPS • Bare‑Metal | MySQL • PostgreSQL |
+  | Java • Kotlin • Swift | Flutter • Android • iOS | Laravel • APIs • Auth |
+  
+  | 🤖 AI & Automation      | ⚙️ Infrastructure                  | 🗄️ Data           |
+  | ----------------------- | ---------------------------------- | ------------------ |
+  | AI APIs • LLMs • Agents | Docker • Ubuntu • VPS • Bare‑Metal | MySQL • PostgreSQL |
 
 </div>
 
