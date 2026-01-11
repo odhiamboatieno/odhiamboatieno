@@ -56,7 +56,7 @@ I’m the **Founder & CEO of [Seen Technologies](https://seentechs.com)**, helpi
 
 | 🤖 AI / ML                                              | ⚙️ Infrastructure                  | 🗄️ Data           |
 | ------------------------------------------------------- | ---------------------------------- | ------------------ |
-| Model Building • Training • Fine-tuning • LLMs • Agents | Docker • Ubuntu • VPS • Bare-Metal | MySQL • PostgreSQL |
+| Model Building • Training • Fine-tuning • LLMs • Agents | Docker • Llinux • VPS • Bare-Metal | MySQL • PostgreSQL |
 
 </div>
 
@@ -66,7 +66,7 @@ I’m the **Founder & CEO of [Seen Technologies](https://seentechs.com)**, helpi
   
   | 🤖 AI & Automation      | ⚙️ Infrastructure                  | 🗄️ Data           |
   | ----------------------- | ---------------------------------- | ------------------ |
-  | AI APIs • LLMs • Agents | Docker • Ubuntu • VPS • Bare‑Metal | MySQL • PostgreSQL |
+  | AI APIs • LLMs • Agents | Docker • Llinux • VPS • Bare‑Metal | MySQL • PostgreSQL |
 
 </div>
 
@@ -99,7 +99,7 @@ If it:
 
 > *If you can’t run it yourself, you don’t really own it.*
 
-* Ubuntu Server (clean installs → hardened production)
+* Llinux Server (clean installs → hardened production)
 * Docker & Docker Compose (failure‑proof setups)
 * VPS & on‑prem / bare‑metal servers
 * Reverse proxies, SSL, backups, monitoring
@@ -164,7 +164,7 @@ Languages      : Java • Kotlin • Swift • Dart • PHP • JavaScript
 Mobile         : Flutter • Android • iOS
 Backend        : Laravel • REST • Auth • Payments
 AI             : LLM APIs • Agents • Automation
-Infrastructure : Docker • Ubuntu • VPS • Bare‑Metal
+Infrastructure : Docker • Llinux • VPS • Bare‑Metal
 Databases      : MySQL • PostgreSQL
 ```
 
