@@ -111,11 +111,11 @@ I regularly design infrastructures that handle **thousands of users** with predi
 
 ## 🌍 Engineering Philosophy
 
-* 🟢 Open‑source first, always
-* 🟢 Infrastructure ownership > convenience
-* 🟢 Design for failure, not perfection
-* 🟢 Automate everything repeatable
-* 🟢 Build software that still makes sense in 5 years
+🟢 Open‑source first, always
+🟢 Infrastructure ownership > convenience
+🟢 Design for failure, not perfection
+🟢 Automate everything repeatable
+🟢 Build software that still makes sense in 5 years
 
 ---
 
