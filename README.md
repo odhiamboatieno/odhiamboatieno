@@ -128,7 +128,7 @@ I regularly design infrastructures that handle **thousands of users** with predi
 <table>
 <tr>
 <td width="35%" align="center">
-  <a href="https://odhiamboatieno.com/latest">
+  <a href="https://odhiamboatieno.com/blog">
     <img width="180" src="https://github.com/odhiamboatieno/odhiamboatieno/blob/main/icon/emoji-finger.png?raw=true" />
   </a>
 </td>
