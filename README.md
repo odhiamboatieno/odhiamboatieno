@@ -52,7 +52,7 @@ I’m the **Founder & CEO of [Seen Technologies](https://seentechs.com)**, helpi
 
 | 💻 Languages                            | 📱 Mobile               | 🌐 Backend            |
 | --------------------------------------- | ----------------------- | --------------------- |
-| Java • Kotlin • Swift • Dart • PHP • JS | Flutter • Android • iOS | Laravel • APIs • Auth |
+| Java • Kotlin • Swift • Dart • PHP • JS • GO • Python| Flutter • Android • iOS | Laravel • APIs • Auth |
 
 | 🤖 AI / ML                                              | ⚙️ Infrastructure                  | 🗄️ Data           |
 | ------------------------------------------------------- | ---------------------------------- | ------------------ |
