@@ -56,7 +56,7 @@ I’m the **Founder & CEO of [Seen Technologies](https://seentechs.com)**, helpi
 
 | 🤖 AI / ML                                              | ⚙️ Infrastructure                  | 🗄️ Data           |
 | ------------------------------------------------------- | ---------------------------------- | ------------------ |
-| Model Building • Training • Fine-tuning • LLMs • Agents | Docker • Llinux • VPS • Bare-Metal | MySQL • PostgreSQL |
+| Model Building • Training • Fine-tuning • LLMs • Agents | Docker • Llinux • VPS • Bare-Metal • Kubernetes| MySQL • PostgreSQL |
 
 </div>
 
