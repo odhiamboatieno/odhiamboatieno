@@ -114,7 +114,7 @@ Architectures I design routinely handle **thousands of concurrent users** withou
 ```
 [✓] Open-source first — always
 [✓] Infrastructure ownership > convenience
-[✓] Design for failure, not perfection
+[✓] Faults anticipated, handled, and eliminated — perfection by design
 [✓] Automate everything repeatable
 [✓] Build for the next five years, not the next sprint
 [✓] Clarity over cleverness
